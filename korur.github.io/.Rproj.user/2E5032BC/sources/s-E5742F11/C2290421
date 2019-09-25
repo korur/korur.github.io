@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2062814776",
+    "hash" : "4229473546",
     "id" : "C2290421",
-    "lastKnownWriteTime" : 1569429563,
-    "last_content_update" : 1569429563,
+    "lastKnownWriteTime" : 1569430387,
+    "last_content_update" : 1569430387669,
     "path" : "~/workingdirectory/korur.github.io/korur.github.io/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "0,26",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

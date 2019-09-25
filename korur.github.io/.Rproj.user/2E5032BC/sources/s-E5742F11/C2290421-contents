@@ -1,4 +1,5 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "/./" 
+publishDir              = "./"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme = "hugo-future-imperfect-slim"
